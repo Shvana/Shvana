@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="200" height="100" />
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="250" height="160" />
 
 ### Jonatan Huergo -- @Shvana
 
