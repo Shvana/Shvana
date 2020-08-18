@@ -1,7 +1,8 @@
 ### Jonatan Huergo -- @Shvana
 
-
 🎓 Pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
+
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 👋 Welcome to my Github profile!
 
@@ -14,8 +15,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:htsunemikuv9@gmail.com)](mailto:htsunemikuv9@gmail.com)
 
 [![Github Followers](https://img.shields.io/github/followers/Shvana?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Shvana?tab=followers)
-
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 ### 💻 Open Source Work Stats
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=Shvana&show_icons=true&hide_border=true)](https://github.com/Shvanar)
