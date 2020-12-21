@@ -16,8 +16,6 @@
 
 [![Github Followers](https://img.shields.io/github/followers/Shvana?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Shvana?tab=followers)
 
-### 💻 Open Source Work Stats
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shvana&hide_title=true" />
 
 ### 🔭 I’m currently working on
