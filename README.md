@@ -16,10 +16,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shvana&hide_title=true" />
 
-### 🔭 I’m currently working on
-- Software Engineering [**Japan VN Fansub**](https://github.com/JapanVNDB) since Mar 2020
-- Software Engineering [**Miku Hatsune Site**](https://github.com/Miku-Hatsune-Site) since Aug 2020
-
 ### 🌱 I’m currently learning
 - Modern C++ (Currently, C++20)
 - C Language
