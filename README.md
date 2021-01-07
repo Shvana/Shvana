@@ -14,7 +14,8 @@
 
 [![Github Followers](https://img.shields.io/github/followers/Shvana?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Shvana?tab=followers)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shvana&hide_title=true" />
+![](https://github-readme-stats.vercel.app/api?username=Shvana&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shvana&layout=compact)
 
 ### 🌱 I’m currently learning
 - Modern C++ (Currently, C++20)
