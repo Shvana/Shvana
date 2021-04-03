@@ -17,12 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shvana&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shvana&layout=compact)
 
-#### This week I've been working on:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![Jonatan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shvana)](https://github.com/Shvana/github-readme-stats&theme=buefy)
-
 ### 🌱 I’m currently learning
 - Modern C++ (Currently, C++20)
 - C Language
